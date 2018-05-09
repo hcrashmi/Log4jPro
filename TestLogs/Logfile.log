@@ -1,0 +1,9 @@
+0    [main] DEBUG demo.Log4jHtmlLayoutTest  - Sample debug message
+16   [main] INFO  demo.Log4jHtmlLayoutTest  - Sample info message
+16   [main] ERROR demo.Log4jHtmlLayoutTest  - Sample error message
+0    [main] DEBUG demo.Log4jHtmlLayoutTest  - Sample debug message
+15   [main] INFO  demo.Log4jHtmlLayoutTest  - Sample info message
+15   [main] ERROR demo.Log4jHtmlLayoutTest  - Sample error message
+2018-05-09 17:27:14  [demo.Log4jHtmlLayoutTest] (main:) Sample debug message
+2018-05-09 17:27:14  [demo.Log4jHtmlLayoutTest] (main:) Sample info message
+2018-05-09 17:27:14  [demo.Log4jHtmlLayoutTest] (main:) Sample error message
