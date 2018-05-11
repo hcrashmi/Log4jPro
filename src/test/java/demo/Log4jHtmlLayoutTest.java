@@ -14,5 +14,6 @@ public class Log4jHtmlLayoutTest
 	        log.info("Sample info message");
 	        log.error("Sample error message");
 		 System.out.println("log4j working");
+		System.out.println("type of log4j");
 	     }
 }
