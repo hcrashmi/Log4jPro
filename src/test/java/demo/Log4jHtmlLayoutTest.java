@@ -13,5 +13,6 @@ public class Log4jHtmlLayoutTest
 	  log.debug("Sample debug message");
 	        log.info("Sample info message");
 	        log.error("Sample error message");
+		 System.out.println("log4j working");
 	     }
 }
